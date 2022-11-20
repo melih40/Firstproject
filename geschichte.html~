@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="styles.css" type="text/css" rel="stylesheet" />
+		<meta charset="utf-8" />
+		<title>Geschichte</title>
+		<style type="text/css">
+	<!--
+	ul#navigation {
+		margin: 0px;
+		padding: 0px;
+		list-style-type: none;
+	}
+
+	ul#navigation li {
+		padding: 0px;
+		margin: 0px;
+		display: inline;
+	}
+
+	ul#navigation li a:link {
+		border: 1px solid #000;
+		background-color: #CCCCCC;
+		padding: 2px 5px 2px 5px;
+		font-size: 12px;
+		color: #000;
+		font-family: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	ul#navigation li a:hover {
+		border: 1px solid #000;
+		background-color: #333333;
+		padding: 2px 5px 2px 5px;
+		color: #fff;
+	}
+	-->
+		</style>
+	</head>
+	<body>
+		<header>
+			<ul id="navigation">
+				<li><a href="index.html">Startseite</a></li>
+				<li><a href="news.html">News</a></li>
+				<li><a href="saison.html">Saison 19/20</a></li>
+				<li><a href="trainerstab.html">Trainerstab</a></li>
+				<li><a href="finanzen.html">Finanzen</a></li>
+				<li><a href="geschichte.html">Geschichte</a></li>
+			</ul>
+			<div class="psg1">
+				<h1><div style="text-align: center">Geschichte</div></h1>
+			</div>
+		</header>
+		<main>
+			<div class="text">
+				Der Verein wurde am 12. August 1970 aufgrund einer Initiative von Pariser Persönlichkeiten offiziell gegründet und ging aus dem Vorstadtclub Stade Saint-Germain aus Saint-Germain-en-Laye hervor, der bereits 1904 gegründet worden war. Dieser hatte sich 1969/70 für den Aufstieg in die zweite Division qualifiziert. Diesen Platz nahm PSG ein und schaffte 1970/71 sogar den sofortigen Aufstieg in die oberste Spielklasse, die Division 1 (kurz D1), die seit 2002 als Ligue 1bezeichnet wird. 1972 allerdings wurde PSG wegen der Verletzung einer Auflage des Fußballverbands FFF, wonach Profivereine auch einen Unterbau aus Amateur- und Jugendmannschaften haben mussten, in die drittklassige National versetzt, wobei die bisherige Ligamannschaft zum ebenfalls erst wenige Jahre zuvor neu gegründeten Paris FC wechselte. Dieser durfte in der Saison 1972/73 Saint-Germains Platz in der Division 1 einnehmen. PSG wurde in der dritten Liga wieder zu Stade Saint-Germain, das sich nach dem direkten Wiederaufstieg in die Division 2 1973 aber in Paris Saint-Germain FC zurückbenannte. <br /><br />
+				Jugendmannschaften haben mussten, in die drittklassige National versetzt, wobei die bisherige Ligamannschaft zum ebenfalls erst wenige Jahre zuvor neu gegründeten Paris FC wechselte. Dieser durfte in der Saison 1972/73 Saint-Germains Platz in der Division 1 einnehmen. PSG wurde in der dritten Liga wieder zu Stade Saint-Germain, das sich nach dem direkten Wiederaufstieg in die Division 2 1973 aber in Paris Saint-Germain FC zurückbenannte. <br /><br />
+				Im gleichen Jahr stieg Modeschöpfer Daniel Hechter als Mäzen bei Saint-Germain ein; von 1974 bis 1978 war er Präsident. Mit der französischen FußballlegendeJust Fontaine als Trainer erfolgte der zweite Aufstieg in Folge und somit bereits nach der Spielzeit 1973/74 die Rückkehr in die D1. Kurioserweise stieg in derselben Spielzeit der Paris FC sportlich wieder aus der D1 ab. Seitdem spielt PSG ununterbrochen in der ersten Liga. 1974 erfolgte außerdem der Umzug des Vereins insPrinzenparkstadion. Dieser neue Verein löste die beiden Pariser Traditionsvereine Racing Club und Red Star in der höchsten französischen Spielklasse als Hauptstadtclub ab. <br /><br />
+				Zu Beginn der 1980er stellten sich mit dem zweifachen Gewinn des französischen Fußballpokals die ersten großen Erfolge ein, die vom Meistertitel der Spielzeit1985/86 gekrönt wurden. Wichtige Spieler dieser Meistermannschaft waren der Mittelfeldregisseur Safet Sušić, der Torjäger Dominique Rocheteau und Kapitän Luis Fernández, der Jahre später den Verein auch zweimal als Trainer übernahm.<br /><br />
+				Noch erfolgreicher gestalteten sich die 1990er für den Hauptstadtklub; drei weitere Male konnte der Pokal gewonnen werden, in der Saison 1993/94 erneut die Liga. Teil dieser Meistermannschaft war der Liberianer George Weah, der in der darauffolgenden Spielzeit Torschützenkönig der Champions League wurde. Außerdem wurde Weah 1995 zum Weltfußballer und zu Europas Fußballer des Jahres gewählt; er wechselte aber im Sommer desselben Jahres zum AC Mailand.<br /><br />
+				Den größten Erfolg feierte PSG aber in der Spielzeit 1995/96, als der Verein im Finale des Europapokals der Pokalsieger mit Spielern wie Bernard Lama, Paul Le Guen, Youri Djorkaeff, Alain Roche, Vincent Guérin und Raí den österreichischen Klub SK Rapid Wien dank eines Tores von Bruno N’Gotty mit 1:0 bezwingen konnte. Im folgenden Jahr erreichte PSG nochmals das Finale dieses Wettbewerbs, musste sich diesmal aber dem FC Barcelona mit 0:1 beugen.<br /><br />
+				An solche Erfolge konnte PSG im ersten Jahrzehnt des neuen Jahrtausends nicht anknüpfen, obwohl der Verein große Summen in Spieler wie Nicolas Anelka,Stéphane Dalmat oder Pauleta investierte oder Talente wie Ronaldinho oder Gabriel Heinze relativ günstig erwarb. Zwar wurde der Pokal erneut dreimal gewonnen, in der Liga konnte PSG aber nur zu Beginn des neuen Millenniums wirklich überzeugen, während man daraufhin den Anschluss an die Spitzenmannschaften verlor und meistens im Tabellenmittelfeld zu finden war. Tiefpunkt war die Saison 2007/08, als der Verein nur knapp dem Abstieg entging. Die Saison 2010/11 wurde dann auf dem vierten Platz abgeschlossen, die beste Platzierung für den Verein seit mehreren Jahren. In der Europa League schied die Mannschaft im Achtelfinale gegenBenfica Lissabon aus.<br /><br />
+				In der Spielzeit 2011/12 gelang die Vizemeisterschaft, die beste Platzierung seit über zehn Jahren, zwölf Monate später schließlich der dritte Meistertitel. In den beiden folgenden Spielzeiten verteidigte PSG jeweils den Meistertitel. Dazu schafften es die Spieler in der Spielzeit 2014/15, sich in die Siegerlisten sämtlicher vier nationaler Wettbewerbe (Liga, Landes- und Ligapokal, dazu zu Saisonbeginn – und erneut vor dem Start der Spielzeit 2015/16 – die Trophée des Champions, also den Supercup) einzutragen; damit hatte PSG unter Trainer Laurent Blanc als erster französischer Klub überhaupt den „Quadruplé“ gewonnen.  In der Spielzeit2015/16 konnten alle vier Titel verteidigt werden, 2016/17 wurde PSG allerdings hinter dem AS Monaco zum ersten Mal seit fünf Jahren nur Vizemeister. Daraufhin verpflichtete der Klub im August 2017 den brasilianischen Stürmer Neymar vom FC Barcelona für 222 Millionen Euro (womit dieser zum teuersten Spieler aller Zeiten wurde) sowie das französische Ausnahmetalent Kylian Mbappé für 180 Millionen Euro vom Ligarivalen und regierenden Meister Monaco.<br /><br />
+				In der Saison 2017/18 stellten sie in der Champions-League-Gruppenphase einen neuen Torrekord von 25 erzielten Toren auf, schieden allerdings bereits im Achtelfinale gegen den späteren Wettbewerbssieger Real Madrid aus. In der Liga konnte unterdessen der siebte Meistertitel, der 12. Pokal sowie der jeweils achte Ligapokal und Supercup gewonnen werden. Mit dem 2:1 gegen den OSC Lille am 12. Spieltag der Saison 2018/19 stellte der Verein zudem einen neuen Startrekord für eine europäische Liga auf: 12 Siege in den ersten 12 Saisonspielen. Am 15. Spieltag riss die Serie von 14 Siegen in Serie nach einem 2:2 bei Girondins Bordeaux. <br /><br />		
+			</div>
+		</main>
+		<footer class="footer">
+			<h2>Links</h2>
+				<li><a href="impressum.html">Impressum</a></li>	
+				<li><a href="https://www.psg.fr/">Offizielle PSG Seite</a></li>	
+		</footer>
+	</body>
+</html>

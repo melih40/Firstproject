@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+}
+*{
+	font-family: 'Roboto', sans-serif;
+}
+#navigation{
+	position: fixed;
+	top: 		 8px;
+	left: 8px;
+}
+.psg{
+	background-image: url("Fotos/Start/psg.jpg");
+	background-position:center center;
+	background-size: cover;	
+	padding: 180px;
+	color: #fff;
+	font-size: 60px;
+	font-family: 'Libre Baskerville', serif;
+}
+.psg1{
+	background-image: url("Fotos/Start/psg.jpg");
+	background-position:center center;
+	background-size: cover;	
+	padding: 205px;
+	color: #fff;
+	font-size: 40px;
+	font-family: 'Libre Baskerville', serif;
+}
+.text{
+	padding: 20px 200px 20px 50px;
+}
+.text:nth-child(odd){
+	background-color: #151E2D ;
+	color: white;
+	list-style-type: none;
+}
+.footer{
+	background-color: #ED0433;
+	list-style-type: none;
+	padding: 20px 50px
+}
+.footer a{
+	color: white;
+	text-decoration: none;
+}
+.text a{
+	text-decoration: none;
+	color: black;
+}
+.bild{
+	padding: 20px 200px 20px 50px;	
+}
+.text h3{
+	margin: 0;
+}
+.text td{
+	text-align: center;
+}
+.bild1{
+	float: right;
+	width: 500px;
+}
+.gelb{
+	color: yellow;	
+}
+.rot{
+	color: red;	
+}
+.transfer{
+	font-size: 30px;	
+}

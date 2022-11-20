@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="styles.css" type="text/css" rel="stylesheet" />
+		<meta charset="utf-8" />
+		<title>Finanzen</title>
+		<style type="text/css">
+	<!--
+	ul#navigation {
+		margin: 0px;
+		padding: 0px;
+		list-style-type: none;
+	}
+
+	ul#navigation li {
+		padding: 0px;
+		margin: 0px;
+		display: inline;
+	}
+
+	ul#navigation li a:link {
+		border: 1px solid #000;
+		background-color: #CCCCCC;
+		padding: 2px 5px 2px 5px;
+		font-size: 12px;
+		color: #000;
+		font-family: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	ul#navigation li a:hover {
+		border: 1px solid #000;
+		background-color: #333333;
+		padding: 2px 5px 2px 5px;
+		color: #fff;
+	}
+	-->
+		</style>
+	</head>
+	<body>
+		<header>
+			<ul id="navigation">
+				<li><a href="index.html">Startseite</a></li>
+				<li><a href="news.html">News</a></li>
+				<li><a href="saison.html">Saison 19/20</a></li>
+				<li><a href="trainerstab.html">Trainerstab</a></li>
+				<li><a href="finanzen.html">Finanzen</a></li>
+				<li><a href="geschichte.html">Geschichte</a></li>
+			</ul>
+			<div class="psg1">
+				<h1><div style="text-align: center">Finanzen</div></h1>
+			</div>
+		</header> 
+		<main>
+			<div class="text">
+				2006 erwarb das US-amerikanische Unternehmen Colony Capital den Verein vom französischen Fernsehsender Canal+, der seit 1991 im Besitz von PSG gewesen war. Zum Zeitpunkt des Eigentümerwechsels waren die Schulden von PSG auf 240 Millionen Euro angewachsen. Im Mai 2011 verkaufte Colony Capital 70 % seiner Aktienanteile für etwa 30 Millionen Euro an die katarische Investorengruppe Qatar Sports Investments (QSI); weitere 20 Millionen Euro wurden aufgebracht, um Schulden zu decken. Ein Jahr später investierte QSI weitere 108 Millionen Euro in den Verein. 2012 übernahm QSI die restlichen 30 % Anteile von der Colony Capital. Die neu geschaffene Position eines Super-Managers (eine Art Sportdirektornach englischem Vorbild) besetzte der neue Eigentümer des Vereins 2011 mit Leonardo, der Mitte der 1990er Jahre für PSG gespielt hatte; 2013 trat er wegen einer einjährigen Sperre zurück.<br /><br />
+				Seit der Übernahme durch QSI gab Paris etwa 360 Millionen Euro für den Transfer neuer Spieler aus, während durch Verkäufe nur etwa 20,5 Millionen (Stand: August 2013) eingenommen wurden. So wurden u. a. Kevin Gameiro für 11 Millionen und Javier Pastore für 42 Millionen Euro verpflichtet. Pastore war der teuerste Neuzugang und zugleich der teuerste Neuzugang in der Ligue 1. Trotz dieser namhaften Verstärkungen gelang dem favorisierten Club in der Spielzeit 2011/12 hinter dem HSC Montpellier lediglich die Vizemeisterschaft, obwohl Trainer Antoine Kombouaré als „Herbstmeister“ durch Carlo Ancelotti ersetzt worden war und im Januar 2012 weitere hochkarätige Spieler (Maxwell, Alex, Thiago Motta) verpflichtet wurden. In den folgenden Jahren verstärkte PSG den Kader weiter und investierte vor und während derSaison 2012/13 ungefähr 130 Millionen Euro u. a. in die Verpflichtung von Zlatan Ibrahimović, was sich am Ende mit dem ersten Gewinn der Meisterschaft seit 19 Jahren auszahlte. Vor der Saison 2013/14 wurden erneut rund 111 Millionen Euro in neue Spieler investiert, darunterEdinson Cavani für rund 65 Millionen Euro, als neuer teuerster Neuzugang der Ligageschichte.<br /><br />
+				Mit einem Jahresumsatz von 80 Millionen Euro lag PSG 2012 in Frankreich hinter Olympique Marseille (150 Mio.) und Olympique Lyon (132 Mio.). 2012 machte der Verein einen operativen Verlust in Höhe von etwa 92 Millionen Euro; zugleich gab man bekannt, einen Sponsorenvertrag mit der QTA (Katars Tourismusbehörde) abgeschlossen zu haben, der dem Verein bis 2016 etwa 600 Millionen Euro einbringen sollte. Kritiker behaupteten, QSI umgehe damit dieFinancial-Fair-Play-Vorgabe der UEFA, und verwiesen auf die Unverhältnismäßigkeit dieses Sponsoring-Deals; so generieren etwa Vereine wie Real Madrid, FC Barcelona oder Manchester United mit ihren besten Sponsorenverträgen nur rund 10 Prozent dieser Summe. 2012/13 betrug der Vereinsetat 300 Millionen Euro, mehr als doppelt so viel wie der von Olympique Lyon. Einer der Gründe: mit Ibrahimović (jährlich 15 Mio.), Thiago Silva (9,6 Mio.) und Lavezzi (9,4 Mio.) standen bei PSG die drei bestbezahlten Spieler Frankreichs unter Vertrag.<br /><br />
+				Am 4. August 2017 wurde der Brasilianer Neymar Jr. offiziell als Neuzugang vorgestellt. Die festgeschriebene Ablösesumme von 222 Millionen Euro an dessen alten Club, den FC Barcelona, machten Neymar zum bis dato teuersten Spieler der Fußballgeschichte.  Durch die Verpflichtung von Kylian Mbappé um 180 Millionen Euro im gleichen Monat spielen momentan die beiden teuersten Spieler aller Zeiten für PSG.<br /><br /> 		
+			</div>
+		
+		</main>
+		<footer class="footer"><br />	
+			<h2>Links</h2>
+				<li><a href="impressum.html">Impressum</a></li>	
+				<li><a href="https://www.psg.fr/">Offizielle PSG Seite</a></li>	
+				<li><a href="https://de.wikipedia.org/wiki/Paris_Saint-Germain">Quelle</a></li>
+		</footer>
+	</body>
+</html>

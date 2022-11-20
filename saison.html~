@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="styles.css" type="text/css" rel="stylesheet" />
+		<meta charset="utf-8" />
+		<title>Saison 19/20</title>
+		<style type="text/css">
+	<!--
+	ul#navigation {
+		margin: 0px;
+		padding: 0px;
+		list-style-type: none;
+	}
+
+	ul#navigation li {
+		padding: 0px;
+		margin: 0px;
+		display: inline;
+	}
+
+	ul#navigation li a:link {
+		border: 1px solid #000;
+		background-color: #CCCCCC;
+		padding: 2px 5px 2px 5px;
+		font-size: 12px;
+		color: #000;
+		font-family: Arial, Helvetica, sans-serif;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	ul#navigation li a:hover {
+		border: 1px solid #000;
+		background-color: #333333;
+		padding: 2px 5px 2px 5px;
+		color: #fff;
+	}
+	-->
+		</style>
+	</head>
+	<body>
+		<header>
+			<ul id="navigation">
+				<li><a href="index.html">Startseite</a></li>
+				<li><a href="news.html">News</a></li>
+				<li><a href="saison.html">Saison 19/20</a></li>
+				<li><a href="trainerstab.html">Trainerstab</a></li>
+				<li><a href="finanzen.html">Finanzen</a></li>
+				<li><a href="geschichte.html">Geschichte</a></li>
+			</ul>
+			<div class="psg1">
+				<h1><div style="text-align: center">Saison 19/20</div></h1>
+			</div>
+		</header>
+		<main>
+			<table class="text" cellspacing="0" border="1" width="100%"> 
+				<caption class="text">
+					<h1>Ligue 1 Tabelle</h1>
+				</caption>	
+				<tr>
+						<td><h3>Vereine</h3></td>
+						<td><h3>Spiele</h3></td>
+						<td><h3>Siege</h3></td>
+						<td><h3>Remis</h3></td>
+						<td><h3>Niederlagen</h3></td>
+						<td><h3>Punkte</h3></td>
+						<td><h3>Tore</h3></td>
+						<td><h3>Gegentore</h3></td>
+						<td><h3>Tordifferenz</h3></td>
+				</tr>
+        		<tr>
+        			<td>Paris Saint-Germain</td>
+        			<td>18</td>
+        			<td>15</td>
+        			<td>0</td>
+        			<td>3</td>
+        			<td>45</td>
+        			<td>43</td>
+        			<td>10</td>
+        			<td>33</td>
+				</tr>
+				<tr>
+        			<td>Marseille</td>
+        			<td>19</td>
+        			<td>11</td>
+        			<td>5</td>
+        			<td>3</td>
+        			<td>38</td>
+        			<td>29</td>
+        			<td>21</td>
+        			<td>8</td>
+				</tr>
+				<tr>
+        			<td>Rennes</td>
+        			<td>18</td>
+        			<td>10</td>
+        			<td>3</td>
+        			<td>5</td>
+        			<td>33</td>
+        			<td>24</td>
+        			<td>17</td>
+        			<td>7</td>
+				</tr>
+        						<tr>
+        			<td>Lille</td>
+        			<td>19</td>
+        			<td>9</td>
+        			<td>4</td>
+        			<td>6</td>
+        			<td>31</td>
+        			<td>24</td>
+        			<td>21</td>
+        			<td>3</td>
+				</tr>
+        						<tr>
+        			<td>Nantes</td>
+        			<td>19</td>
+        			<td>9</td>
+        			<td>2</td>
+        			<td>8</td>
+        			<td>29</td>
+        			<td>17</td>
+        			<td>18</td>
+        			<td>-1</td>
+				</tr>
+        						<tr>
+        			<td>St. Reims</td>
+        			<td>18</td>
+        			<td>7</td>
+        			<td>7</td>
+        			<td>4</td>
+        			<td>28</td>
+        			<td>16</td>
+        			<td>10</td>
+        			<td>6</td>
+				</tr>
+        						<tr>
+        			<td>Monaco</td>
+        			<td>18</td>
+        			<td>8</td>
+        			<td>4</td>
+        			<td>6</td>
+        			<td>28</td>
+        			<td>31</td>
+        			<td>26</td>
+        			<td>5</td>
+				</tr>
+        						<tr>
+        			<td>Angers</td>
+        			<td>19</td>
+        			<td>8</td>
+        			<td>4</td>
+        			<td>7</td>
+        			<td>28</td>
+        			<td>22</td>
+        			<td>24</td>
+        			<td>-2</td>
+				</tr>
+        						<tr>
+        			<td>Montpellier</td>
+        			<td>19</td>
+        			<td>7</td>
+        			<td>6</td>
+        			<td>6</td>
+        			<td>27</td>
+        			<td>26</td>
+        			<td>19</td>
+        			<td>7</td>
+				</tr>
+        						<tr>
+        			<td>OGC Nizza</td>
+        			<td>19</td>
+        			<td>8</td>
+        			<td>3</td>
+        			<td>8</td>
+        			<td>27</td>
+        			<td>28</td>
+        			<td>27</td>
+        			<td>1</td>
+				</tr>
+        						<tr>
+        			<td>RC Strasbourg</td>
+        			<td>19</td>
+        			<td>8</td>
+        			<td>3</td>
+        			<td>8</td>
+        			<td>27</td>
+        			<td>23</td>
+        			<td>24</td>
+        			<td>-1</td>
+				</tr>
+        						<tr>
+        			<td>Lyon</td>
+        			<td>19</td>
+        			<td>7</td>
+        			<td>5</td>
+        			<td>7</td>
+        			<td>26</td>
+        			<td>29</td>
+        			<td>18</td>
+        			<td>11</td>
+				</tr>
+        						<tr>
+        			<td>Bordeaux</td>
+        			<td>19</td>
+        			<td>7</td>
+        			<td>5</td>
+        			<td>7</td>
+        			<td>26</td>
+        			<td>28</td>
+        			<td>22</td>
+        			<td>6</td>
+				</tr>
+        						<tr>
+        			<td>St-Étienne</td>
+        			<td>19</td>
+        			<td>7</td>
+        			<td>4</td>
+        			<td>8</td>
+        			<td>25</td>
+        			<td>22</td>
+        			<td>29</td>
+        			<td>-7</td>
+				</tr>
+        						<tr>
+        			<td>Stade Brest</td>
+        			<td>19</td>
+        			<td>5</td>
+        			<td>7</td>
+        			<td>7</td>
+        			<td>22</td>
+        			<td>21</td>
+        			<td>24</td>
+        			<td>-3</td>
+				</tr>
+        						<tr>
+        			<td>Dijon FCO</td>
+        			<td>19</td>
+        			<td>4</td>
+        			<td>6</td>
+        			<td>9</td>
+        			<td>18</td>
+        			<td>14</td>
+        			<td>22</td>
+        			<td>-8</td>
+				</tr>
+        						<tr>
+        			<td>Metz</td>
+        			<td>19</td>
+        			<td>3</td>
+        			<td>8</td>
+        			<td>8</td>
+        			<td>17</td>
+        			<td>17</td>
+        			<td>28</td>
+        			<td>-11</td>
+				</tr>
+        		<tr class="gelb">
+        			<td>Amiens SC</td>
+        			<td>18</td>
+        			<td>4</td>
+        			<td>5</td>
+        			<td>9</td>
+        			<td>17</td>
+        			<td>21</td>
+        			<td>36</td>
+        			<td>-15</td>
+				</tr>
+        		<tr class="rot">
+        			<td>Nîmes Olympique</td>
+        			<td>18</td>
+        			<td>2</td>
+        			<td>6</td>
+        			<td>10</td>
+        			<td>12</td>
+        			<td>13</td>
+        			<td>32</td>
+        			<td>-19</td>
+				</tr>
+        		<tr class="rot">
+        			<td>Toulouse</td>
+        			<td>19</td>
+        			<td>3</td>
+        			<td>3</td>
+        			<td>13</td>
+        			<td>12</td>
+        			<td>19</td>
+        			<td>39</td>
+        			<td>-20</td>
+				</tr>	
+         </table>
+						
+			<ul class="text">
+				<h1>Spieler</h1>				
+				<li><a href="https://de.wikipedia.org/wiki/Neymar">Neymar</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Kylian_Mbapp%C3%A9">Kylian Mbappé</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Mauro_Icardi">Mauro Icardi</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Edinson_Cavani">Edinson Cavani</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Keylor_Navas">Keylor Navas</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa">Ángel Di María</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Thiago_Silva">Thiago Silva</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Leandro_Paredes">Leandro Paredes</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Idrissa_Gueye">Idrissa Gueye</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Marco_Verratti">Marco Veratti</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Ander_Herrera">Ander Herrera</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Eric_Maxim_Choupo-Moting">Eric Maxim Choupo-Moting</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Pablo_Sarabia">Pablo Sarabia</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Julian_Draxler">Julian Draxler</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Thomas_Meunier">Thomas Meunier</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Marquinhos">Marquinhos</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Abdou_Diallo">Abdou Diallo</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Sergio_Rico</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Layvin_Kurzawa">Layvin Kurzawa</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Colin_Dagba">Colin Dagba</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Presnel_Kimpembe">Presnel Kimpembe</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Thilo_Kehrer">Thilo Kehrer</a></li>
+				<li><a href="https://de.wikipedia.org/w/index.php?title=Lo%C3%AFc_Mbe_Soh&action=edit&redlink=1">Loïc Mbe Soh</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Adil_Aouchiche">Adil Aouchiche</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Marcin_Bu%C5%82ka">Marcin Bulka</a></li>
+				<li><a href="https://de.wikipedia.org/wiki/Mitchel_Bakker">Mitchel Bakker</a></li>
+				<li><a href="Arnoud Kalimuendo Muinga">Arnoud Kalimuendo Muinga</a></li>
+				<li><a href="Garissone Innocent">Garissone Innocent</a></li>
+				<li><a href="Tanguy Kouassi">Tanguy Kouassi</a></li>
+			</ul>
+		<img class="" src="Fotos/Saison/Saison.jpg" width="1000" height="500" alt="" />
+		</main>
+		<footer class="footer">
+			<h2>Links</h2>
+				<li><a href="impressum.html">Impressum</a></li>	
+				<li><a href="https://www.psg.fr/">Offizielle PSG Seite</a></li>	
+				<li><a href="https://de.wikipedia.org/wiki/Paris_Saint-Germain">Quelle</a></li>
+		</footer>
+	</body>
+</html>
